@@ -1,0 +1,19 @@
+{
+  "name": "نظرة",
+  "short_name": "نظرة",
+  "description": "تطبيق نظرة - اطلب فيديو مباشر من أي موقع في السعودية",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#059669",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/nazrah-logo.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ],
+  "lang": "ar",
+  "dir": "rtl"
+}
